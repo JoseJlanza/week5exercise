@@ -1,0 +1,25 @@
+ {
+	margin: none;
+	background-color: blue;
+}
+
+ img {
+ 	height: 200px;
+ 	width: 200px;
+ }
+
+.btn-primary {
+	background-color: blue;
+	border-color: gold;
+	color: gold;
+}
+.btn-default {
+	background-color: blue;
+	border-color: gold;
+	color: gold;
+}
+.btn-basic  {
+	background-color:blue;
+	border-color: gold;
+	color: gold;
+}
